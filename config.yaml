@@ -1,0 +1,10 @@
+camera-service:
+  service:
+    host: 0.0.0.0
+    port: 6000
+  logs:
+    base: ./logs
+    level: debug
+  provider:
+    port: 39994  
+     

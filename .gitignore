@@ -1,1 +1,10 @@
 /x64/
+/win/.vs
+/win/MvFGSdkLog/
+/win/MvSDKLog
+/win/x86/
+/win/x64/
+/win/camera-service/
+/MvFGSdkLog/
+/MvSDKLog/
+/logs/
